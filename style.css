@@ -138,7 +138,7 @@ nav a:hover {
     var(--color-primary) 0%,
     var(--color-primary-dark) 100%
   );
-  background-image: url(/img/empresaR.webp);
+  background-image: url(img/empresaR.webp);
   background-size: cover;
   background-position: center;
 }
@@ -545,3 +545,4 @@ nav a:hover {
     display: block;
   }
 }
+
